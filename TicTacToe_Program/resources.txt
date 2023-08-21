@@ -1,0 +1,12 @@
+1. wikipedia
+2. https://www.cs.rhodes.edu/~kirlinp/courses/ai/f18/lectures/search/day2-search.pdf
+3. https://users.cs.northwestern.edu/~agupta/_projects/ai_connect4/Connect4/Related/alpha-beta.html
+4. https://www.analyticsvidhya.com/blog/2022/08/simplifying-ai-models-with-the-peas-representation-system/#:~:text=PEAS%20stands%20for%20Performance%2C%20Environment,defining%20an%20Artificial%20Intelligence%20model.
+5. https://algoscale.com/blog/why-you-need-to-know-about-adversarial-search-in-ai/#:~:text=In%20artificial%20intelligence%2C%20deep%20learning,task%20to%20be%20carried%20out
+6. https://en.wikipedia.org/wiki/Tic-tac-toe
+7. https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+8. codeAcademy
+9. https://en.wikipedia.org/wiki/Minimax
+10. https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/?ref=rp
+11. https://github.com/AlejoG10/python-tictactoe-ai-yt
+12. https://www.javatpoint.com/ai-alpha-beta-pruning
